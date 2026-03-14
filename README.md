@@ -2,7 +2,7 @@
 
 **Cloud Computing Assignment - Semester 7**  
 **Module**: Cloud Computing (EE7222/EC7204)  
-**Team Members**: [Add your team members here]
+**Team Members**: EG/2020/3989, EG/2020/3979, EG/2020/4064
 
 ## Project Overview
 
@@ -246,14 +246,11 @@ Edit `$HADOOP_HOME/etc/hadoop/mapred-site.xml` and add:
 - [Hadoop Streaming](https://hadoop.apache.org/docs/stable/hadoop-streaming/HadoopStreaming.html)
 - [MapReduce Tutorial](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)
 
-## License
+## Team Members
 
-This project is for educational purposes as part of the Cloud Computing course assignment.
-
-## Authors
-
-[Add your team member names and registration numbers]
+Jayasinghe U.R – EG/2020/3989
+Jayalath K.M.S.M – EG/2020/3979
+Illangasinghe H.M.C.S.B – EG/2021/4560 
 
 ---
-**Submission Date**: March 7, 2026  
 **University of Ruhuna - Faculty of Engineering**
